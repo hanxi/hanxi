@@ -10,8 +10,8 @@ Game Server Programer In China Guangzhou. Coding begin 2009 , Working begin 2012
   - :three: Python
   - :four: Bash
   - :five: Javascript
-  
- - Workflow
+
+- Workflow
   - :large_blue_circle: Git
   - :large_blue_circle: Tmux
   - :large_blue_circle: Vim
