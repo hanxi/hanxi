@@ -1,16 +1,14 @@
-### Hi there 👋
+### I am hanxi(涵曦) 👋
 
-<!--
-**hanxi/hanxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Programer In China Guangzhou.
 
-Here are some ideas to get you started:
+#### my blog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- New： http://blog.hanxi.info
+- Old： http://oldblog.hanxi.info
+- Old： http://hanxi.cnblogs.com
+
+### contact me
+
+- email: me#hanxi.info
+- phone: echo +$((16#7D5EC4F37C0))
