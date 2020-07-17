@@ -2,6 +2,8 @@
 
 Game Server Programer In China Guangzhou. Coding begin 2009 , Working begin 2012 .
 
+[![Hanxi's github stats](https://github-readme-stats.vercel.app/api?username=hanxi)](https://github.com/hanxi)
+
 ### Skills
 
 - Programming language
@@ -27,4 +29,3 @@ Game Server Programer In China Guangzhou. Coding begin 2009 , Working begin 2012
 - :email: me#hanxi.info
 - :phone: echo +$((16#7D5EC4F37C0))
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hanxi)](https://github.com/anuraghazra/github-readme-stats)
