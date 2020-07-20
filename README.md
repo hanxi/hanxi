@@ -1,8 +1,8 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hanxi&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 ### I am hanxi(涵曦)
 
 Game Server Programer In China Guangzhou. Coding begin 2009 , Working begin 2012 .
-
-[![Hanxi's github stats](https://github-readme-stats.vercel.app/api?username=hanxi)](https://github.com/hanxi)
 
 ### Skills
 
