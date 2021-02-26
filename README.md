@@ -24,12 +24,11 @@ Game Server Programer In China Guangzhou. Coding begin 2009 , Working begin 2012
 
 ### My blog
 
-- :white_check_mark: New： http://blog.hanxi.info
-- :underage: Old： http://oldblog.hanxi.info
+- :white_check_mark: New： http://blog.hanxi.cc
 - :underage: Old： http://hanxi.cnblogs.com
 
 ### Contact me
 
-- :email: me#hanxi.info
+- :email: im.hanxi@gmail.com
 - :phone: echo +$((16#7D5EC4F37C0))
 
