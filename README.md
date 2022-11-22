@@ -1,6 +1,6 @@
 ### I am hanxi(涵曦)
 
-Game Server Programer In China Guangzhou. Coding begin 2009 , Working begin 2012 .
+I love coding. I use neovim, tmux, wezterm...
 
 ### Courses
 
