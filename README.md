@@ -13,6 +13,6 @@ I love coding. I use neovim, tmux, wezterm...
 
 ### Contact me
 
-- :email: im.hanxi@gmail.com
-- :phone: echo +$((16#7D5EC4F37C0))
+- :email: `im.hanxi#gmail.com`
+- :phone: `echo +$((16#7D5EC4F37C0))`
 
