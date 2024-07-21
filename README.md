@@ -4,7 +4,7 @@ I love coding. I use neovim, tmux, wezterm...
 
 ### Sponsor Me
 
-- 爱发电: <https://afdian.net/a/imhanxi>
+- 爱发电: <https://afdian.com/a/imhanxi>
 
 ### Courses
 
