@@ -1,6 +1,6 @@
 ### I am hanxi(涵曦)
 
-I love coding. I use neovim, tmux, wezterm...
+I love coding. I use neovim, tmux, wezterm/ghostty...
 
 ### Sponsor Me
 
